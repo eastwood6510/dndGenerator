@@ -1,0 +1,10 @@
+[
+  { "w":1, "v":"{%voiceTexture=Gruff}"},
+  { "w":1, "v":"{%voiceTexture=Smooth}"},
+  { "w":1, "v":"{%voiceTexture=Strained}"},
+  { "w":1, "v":"{%voiceTexture=Relaxed}"},
+  { "w":1, "v":"{%voiceTexture=Breathy}"},
+  { "w":1, "v":"{%voiceTexture=from the back of the throat, wolfy}"},
+  { "w":1, "v":"{%voiceTexture=Scratchy}"},
+  { "w":1, "v":"{%voiceTexture=Nasal}"},
+]
