@@ -1,3 +1,5 @@
-slow
-medium
-fast
+[
+  { "w":1, "v":"{%voiceSpeed=slow}"},
+  { "w":1, "v":"{%voiceSpeed=medium}"},
+  { "w":2, "v":"{%voiceSpeed=fast}"},
+]
