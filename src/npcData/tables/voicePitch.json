@@ -1,5 +1,5 @@
 [
   { "w":1, "v":"{%voicePitch=low}"},
   { "w":1, "v":"{%voicePitch=medium}"},
-  { "w":2, "v":"{%voicePitch=high}"},
+  { "w":1, "v":"{%voicePitch=high}"},
 ]
