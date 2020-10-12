@@ -21,7 +21,11 @@
       "build": "{$build} build",
       "face": "{$face} face{$beard}",
       "special1": "{$sphy1}",
-      "special2": "{$sphy2}"
+      "special2": "{$sphy2}",
+      "vocal speed": "{$voiceSpeed}",
+      "vocal pitch": "{$voicePitch}",
+      "vocal texture": "{$voiceTexture}",
+      "vocal pattern": "{$voicePattern}",
     },
     "alignment": {
       "good": "{%good}",
