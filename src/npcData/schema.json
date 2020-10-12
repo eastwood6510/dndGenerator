@@ -25,7 +25,7 @@
       "vocal speed": "{$voiceSpeed}",
       "vocal pitch": "{$voicePitch}",
       "vocal texture": "{$voiceTexture}",
-      "vocal pattern": "{$voicePattern}",
+      "vocal pattern": "{$voicePattern}"
     },
     "alignment": {
       "good": "{%good}",
